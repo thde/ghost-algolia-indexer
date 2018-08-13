@@ -8,6 +8,10 @@
   },
   "author": "thde (https://github.com/thde/)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thde/ghost-algolia-indexer.git"
+  },
   "bin": {
     "ghost-algolia-indexer": "./ghost-algolia-indexer.js"
   },
