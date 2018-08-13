@@ -8,6 +8,9 @@
   },
   "author": "thde (https://github.com/thde/)",
   "license": "MIT",
+  "bin": {
+    "ghost-algolia-indexer": "./ghost-algolia-indexer.js"
+  },
   "dependencies": {
     "algoliasearch": "^3.30.0",
     "node-fetch": "^2.2.0"

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { URL } = require('url');
 const algoliasearch = require('algoliasearch');
 const fetch = require('node-fetch');

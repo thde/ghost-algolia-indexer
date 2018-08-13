@@ -19,5 +19,5 @@ GHOST_CLIENT_SECRET='f84a07a72b17' \
 ALGOLIA_APP_ID='ABC' \
 ALGOLIA_API_KEY='123' \
 ALGOLIA_INDEX_NAME='prod_search' \
-node index.js
+ghost-algolia-indexer
 ```
