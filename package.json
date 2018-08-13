@@ -1,0 +1,15 @@
+{
+  "name": "ghost-algolia-indexer",
+  "version": "1.0.0",
+  "description": "A node script to index posts from the ghost CMS in Algolia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thde (https://github.com/thde/)",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^3.30.0",
+    "node-fetch": "^2.2.0"
+  }
+}
